@@ -37,8 +37,11 @@
 ☘️吉林频道,#genre#
 
 ☘️云南频道,#genre#
+西双版纳综合,http://m3u8channel.xsbnrtv.cn/nmip-media/channellive/channel106885/playlist.m3u8
+麻栗坡电视台,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv?zyund
 
 🌊港·澳·台,#genre#
+翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 
 🈳无结果频道,#genre#
 湖州公共民生,url
@@ -67,9 +70,6 @@
 红河州新闻综合,url
 美丽云南,url
 西双版纳公共,url
-西双版纳综合,url
-麻栗坡电视台,url
 云南都市,url
 云南娱乐,url
 云南少儿,url
-翡翠台,url
